@@ -228,7 +228,7 @@ longevity of your vehicle. From oil changes</p>
       <div className="bg-gray-200 py-[100px] px-[100px]">
         <div className="text-center mb-[60px]">
           <h2 className="text-red-500 font-bold text-xl mb-2">ASK QUESTION</h2>
-          <h3 className="text-black font-bold text-4xl mb-4">Got Questions? We've Got <br/>Answers</h3>
+          <h3 className="text-black font-bold text-4xl mb-4">Got Questions? We&apos;ve Got <br/>Answers</h3>
         </div>
         
         <div className="space-y-4">
